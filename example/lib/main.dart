@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_paystack_client/flutter_paystack_client.dart';
+import 'package:flutter_theoaks_paystack_client/flutter_theoaks_paystack_client.dart';
 
 import '.env.dart';
 

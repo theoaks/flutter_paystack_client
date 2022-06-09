@@ -16,7 +16,7 @@ a [dependency in your pubspec.yaml file](https://flutter.dev/platform-plugins/).
 Then initialize the plugin preferably in the `initState` of your widget.
 
 ``` dart
-import 'package:flutter_paystack_client/flutter_paystack_client.dart';
+import 'package:flutter_theoaks_paystack_client/flutter_paystack_client.dart';
 
 class _PaymentPageState extends State<PaymentPage> {
   var publicKey = '[YOUR_PAYSTACK_PUBLIC_KEY]';

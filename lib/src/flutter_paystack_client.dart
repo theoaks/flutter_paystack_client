@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_paystack/flutter_paystack.dart';
-import 'package:flutter_paystack_client/src/paystack_web.dart';
+import 'package:flutter_theoaks_paystack/flutter_theoaks_paystack.dart';
+import 'package:flutter_theoaks_paystack_client/src/paystack_web.dart';
 
-export 'package:flutter_paystack/src/models/charge.dart';
+export 'package:flutter_theoaks_paystack/src/models/charge.dart';
 
 class PaystackClient {
   static String? _publicKey;

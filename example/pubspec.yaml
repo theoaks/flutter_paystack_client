@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_paystack_client:
+  flutter_theoaks_paystack_client:
     path: ../
 
 

@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   js: ^0.6.4
-  flutter_paystack:
+  flutter_theoaks_paystack:
     git:
       url: https://github.com/theoaks/flutter_paystack.git
 

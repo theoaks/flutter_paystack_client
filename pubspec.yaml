@@ -5,13 +5,14 @@ homepage: https://github.com/djade007/flutter_paystack_client
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
-  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  js: ^0.6.3
-  flutter_paystack: ^1.0.5
+  js: ^0.6.4
+  flutter_paystack:
+    git:
+      url: https://github.com/theoaks/flutter_paystack.git
 
 dev_dependencies:
   flutter_test:

@@ -1,5 +1,5 @@
 name: flutter_theoaks_paystack_client
-description: Flutter Paystack payment plugin with support for Web, Android and iOS
+description: Flutter Paystack payment plugin with support for Web, Android and iOS. Forked from https://github.com/djade007/flutter_paystack_client
 version: 0.1.2
 homepage: https://github.com/thoaks/flutter_paystack_client
 
